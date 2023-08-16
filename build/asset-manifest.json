@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c3fe470.css",
+    "main.js": "/static/js/main.e823877f.js",
+    "static/media/Vinnytsia_4.jpg": "/static/media/Vinnytsia_4.6854b0f051d0b02b52ae.jpg",
+    "static/media/Vinnytsia_5.jpg": "/static/media/Vinnytsia_5.025d34bf1953e06dff81.jpg",
+    "static/media/Vinnytsia_1.jpg": "/static/media/Vinnytsia_1.ab902787d95d01669958.jpg",
+    "static/media/Vinnytsia_2.jpg": "/static/media/Vinnytsia_2.231f4bc544beceb6f209.jpg",
+    "static/media/Coat_of_arms_of_Vinnytsia.svg.png": "/static/media/Coat_of_arms_of_Vinnytsia.svg.aa726c41935a39b8eb99.png",
+    "static/media/Vinnytsia_3.jpg": "/static/media/Vinnytsia_3.8079c5a217e12387edfd.jpg",
+    "static/media/Flag_of_Vinnycia.svg.png": "/static/media/Flag_of_Vinnycia.svg.a3290893b9e845cec655.png",
+    "index.html": "/index.html",
+    "main.3c3fe470.css.map": "/static/css/main.3c3fe470.css.map",
+    "main.e823877f.js.map": "/static/js/main.e823877f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c3fe470.css",
+    "static/js/main.e823877f.js"
+  ]
+}
